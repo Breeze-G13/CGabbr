@@ -1,0 +1,61 @@
+label,abbr,full
+region,RDC,Rightshore Delivery Center
+region,BSV,Business Services
+region,FSC,Financial Services Center
+team,CST,Competence and Solution Team
+team,ERP,Enterprise Resource Planning
+team,HCM,Human Capital Management
+team,CSD,Customer Solution Development
+team,CX,Customer Experience
+team,I&D,Insight and Data
+team,PMO,Project Management Office
+team,TA,Talent Acquisition
+team,SF,Success Factor
+team,PS,PeopleSoft
+team,PLM,Product Lifecycle Management
+team,IOT,Internet of Things
+team,DQR,Delivery Quality and Risk
+team,BRM,Business Risk Management
+industry,CPRD,Customer Products Retail Distribution
+industry,TMT,Technology Media and Telecom
+industry,FS,Financial Services
+industry,CP,Consumer Products
+industry,CI,Coral Incubation
+industry,BSM,Business Shopping Mall
+industry,MLS,Manufacture and Life Science
+industry,QSF,"Quick Service, Franchise"
+industry,ES,Engineering Services
+industry,MNC,Multinational Company
+position,CSM,Client Service Manager
+position,AM,Account Manager
+position,EM,Engagement Manager
+position,BA,Business Analysis
+position,RM,Resource Manager
+position,SME,Subject Matter Expert
+position,SPOC,Single Person of Contact
+position,COE,Center of Excellence
+others,UT,Utilization Time
+others,GBL,Global Business Line
+others,CSR,Corporate Social Responsibility
+others,DTI,Digital Transition Institute
+others,MER,Monthly Evaluation Report
+others,AMS,Application Maintenance System
+others,SAP,System Applications and Products
+others,AIE,Applied Innovation Exchange
+others,ASE,Accelerated Solutions Environment
+others,DCE,Digital Customer Experience
+others,ARVE,Assignment Rate Vacation Excluded
+others,BT,Billable Task
+others,DSS,Dedicated Shared Services
+others,CSS,Client Serving Specialist
+others,DSP,Dedicated Sales Personnel
+others,IT,Information Technology
+others,PQR,Pursuit Quality and Risk
+others,BD,Business Development
+others,SOM,Sales Operation Management
+others,DRB,Deal Review Board
+others,PQA,Persuit Quality Assurance
+others,PT,Pricing Tool
+others,PES,Product Engineering Service
+others,RFP,Request for Proposal
+others,SFDC,Salesforce.com
