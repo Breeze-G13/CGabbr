@@ -25,7 +25,7 @@ toTest = df.copy(deep=True)
 tested = pd.DataFrame()
 
 while len(toTest)>0: 
-    i = random.randint(0, len(toTest))
+    i = random.randint(0, len(toTest)-1)
     df.loc[i, "testCounts"] += 1
     prompt = "[" + toTest.loc[i, "label"].upper() + "] " + toTest.loc[i, "abbr"]
     key = toTest.loc[i, "full"]
