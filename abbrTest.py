@@ -44,7 +44,7 @@ while len(toTest)>0:
         print(">> Incorrect.", prompt, "=", key, "\n")
         tested = tested.append(toTest.loc[i])
 
-tested.drop_duplicates(subset="abbr", keep=False, inplace=True)
+tested.drop_duplicates(subset="abbr", keep='first', inplace=True)
 oneTimeCorrect = len(tested.loc[tested.correct==True])
 print("Among", len(tested), "unique abbreviations tested,", oneTimeCorrect, "was correct at first time.")
 print("One-time correct rate is %.2f%%" % round(oneTimeCorrect/len(tested)*100, 2))
